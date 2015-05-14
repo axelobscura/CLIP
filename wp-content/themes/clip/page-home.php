@@ -66,7 +66,7 @@ Template Name: home
     <div class="row">
       <div class="feature col-sm-6">
       	<div class="tatsu_one">
-        	<img src="<?php echo get_template_directory_uri(); ?>/images/icons/landing_tatsu_one.png" border="0" alt="Clip" title="Clip" width="90%" />
+        	<img src="<?php echo get_template_directory_uri(); ?>/images/icons/landing_tatsu_one.png" border="0" alt="Clip" title="Clip" width="100%" />
         </div>
       </div>
       <div class="feature col-sm-6">
