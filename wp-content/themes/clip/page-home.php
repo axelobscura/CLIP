@@ -171,7 +171,7 @@ Template Name: home
 <section class="stick-section" id="sticker">
   <div class="container">
     <div class="row">
-      <div class="feature col-sm-6">
+      <div class="feature col-sm-5">
       	<div class="sticker_one">
             <div class="tab-content">
                 <div id="sectionA" class="tab-pane fade in active">
@@ -191,7 +191,7 @@ Template Name: home
             </div>
         </div>
       </div>
-      <div class="feature col-sm-6">
+      <div class="feature col-sm-7">
       	<div class="sti comp">
         <h2 class="sticker">Give your customers the choice to pay the way they want to pay by offering Clip payment acceptance!</h2>
         <div class="sticker_two">
